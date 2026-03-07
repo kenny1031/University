@@ -1,0 +1,8 @@
+1 a a R 2
+2 a a R 2
+2 _ _ L 3
+3 a b L 4
+4 b a L 5
+5 a a L 5
+5 b b L 5
+5 _ _ R 1

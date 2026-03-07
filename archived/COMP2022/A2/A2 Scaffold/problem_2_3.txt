@@ -1,0 +1,7 @@
+V = S I J K
+T = a b
+start = S
+S -> IbJbK
+I -> aI | epsilon
+K -> aK | epsilon
+J -> IIKKKa

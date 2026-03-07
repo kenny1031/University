@@ -1,0 +1,18 @@
+0 _ _ * halt-reject
+0 a a r 0
+0 b x l 1
+
+1 x x l 1
+1 _ _ r 2
+1 a x r 2
+1 b x r 2
+
+2 x x r 2
+2 a x r 2
+2 b x r 2
+2 _ _ r 3
+
+3 x x r 3
+3 _ _ * halt-accept
+3 a a * halt-reject
+3 b b * halt-reject

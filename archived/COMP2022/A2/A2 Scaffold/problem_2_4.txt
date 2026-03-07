@@ -1,0 +1,7 @@
+V = S T B
+T = a b
+start = S
+S -> TSB | aab | abb | bbb | bab | epsilon
+T -> aaa | aab | aba | baa | bba | bab | abb | bbb
+B -> bbb
+

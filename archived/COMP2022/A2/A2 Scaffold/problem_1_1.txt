@@ -1,0 +1,2 @@
+U derives the language of strings with any number of a's and a single b as its last character.
+T derives the language of strings of odd length n where the index (n-1)/2 to the n-1 of the string are all a's.

@@ -1,0 +1,2 @@
+ab,abab,ababab,abababab,ababababab
+aa,bb,aab,abb,aba
