@@ -1,7 +1,0 @@
-V = S T P X Y
-T = a b
-start = S
-S -> aPa | bPb
-P -> aXa | bXb
-X -> aaYaa | abYba | bbYbb | baYab
-Y -> X | epsilon

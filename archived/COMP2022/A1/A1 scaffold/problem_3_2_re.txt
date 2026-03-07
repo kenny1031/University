@@ -1,1 +1,0 @@
-baa(a|b)(aa|ab|ba|bb)*

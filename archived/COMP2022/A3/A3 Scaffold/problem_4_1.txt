@@ -1,9 +1,0 @@
-1 a _ r 2
-2 _ a r 3
-3 a a r 3
-3 _ _ l 4
-4 a b l 5
-5 b a l 6
-6 a a l 6
-6 b b l 6
-6 _ _ r 1

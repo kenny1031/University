@@ -1,6 +1,0 @@
-0 a _ r 1
-0 b _ * halt-reject
-0 _ _ * halt-accept
-1 b _ r 0
-1 a _ * halt-reject
-1 _ _ * halt-accept

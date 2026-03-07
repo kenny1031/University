@@ -1,5 +1,0 @@
-V = S T
-T = a b
-start = S
-S -> aTa | bSb | a | b | epsilon
-T -> bSb
