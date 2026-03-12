@@ -1,0 +1,10 @@
+Asset Class,Investment fees,Tax rate
+Australian Listed Equity [G],0.0035,0
+Int'l Listed Equity (Hedged) [G],0.0045,0
+Int'l Listed Equity (Unhedged) [G],0.0055,0
+Australian Listed Property [G],0.005,0.14
+Int'l Listed Property [G],0.0065,0
+Int'l Listed Infrastructure [G],0.012,0
+Australian Fixed Income [D],0.002,0.15
+Int'l Fixed Income (Hedged) [D],0.0022,0.15
+Cash [D],0.0005,0.15

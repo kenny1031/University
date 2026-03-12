@@ -1,0 +1,10 @@
+ID #,Code,Growth/Def ,Asset Class,Total Return Index Name,Bloomberg Ticker
+1,AEQ,1,Australian Listed Equity [G],S&P/ASX Total Return 300 Index,ASA52
+2,ILE(H),1,Int'l Listed Equity (Hedged) [G],MSCI All Country World Ex-Australia with Special Tax (100% hedged to AUD),NDDLWI
+3,ILE,1,Int'l Listed Equity (Unhedged) [G],MSCI All Country World Ex-Australia with Special Tax (unhedged to AUD),NDLEEGF
+4,ALP,1,Australian Listed Property [G],S&P/ASX 300 A-REIT Index,RDAU
+5,ILP,1,Int'l Listed Property [G],FTSE EPRA Nareit Developed ex Aus Rental 100% Hedged to AUD Net Tax (Super) Index,FDCIISAH
+6,ILI,1,Int'l Listed Infrastructure [G],FTSE Developed Core Infrastructure 100% Hedged to AUD Net Tax (Super) Index,HEDGNAV
+7,AFI,0,Australian Fixed Income [D],Bloomberg AusBond Composite 0+ Yr Index,BACM0
+8,IFI,0,Int'l Fixed Income (Hedged) [D],Bloomberg Barclays Global Aggregate Index (hedged to AUD),LGTRTRAH
+9,Cash,0,Cash [D],Bloomberg AusBond Bank Bill Index,BAUBIL
